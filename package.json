@@ -1,0 +1,15 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "keywords": [],
+  "author": "gabriel hijazi",
+  "license": "MIT",
+  "description": "Gesture Controller",
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
